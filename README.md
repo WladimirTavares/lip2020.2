@@ -35,6 +35,16 @@
 8. [Análise Léxica usando diagrama de Estados](8/Readme.md)
 9. [Autômato](9/Readme.md)
 10. [Número par de a's](10/Readme.md)
+11. [Derivação mais à esquerda](11/Readme.md)
+12. [Árvore sintática](12/Readme.md)
+13. [Ambiguidade sintática](13/Readme.md)
+14. [Analisador Descendente Recursivo](14/Readme.md)
+15. [Análise sintática LL(1)](15/Readme.md)
 
+## Listas
+
+1. [Lista 1](lista1.pdf)
+2. [Lista 2](lista2.pdf)
+3. [Lista 3](lista3.pdf)
 
 
