@@ -28,5 +28,13 @@
 1. [Critérios de Avaliação](1/Readme.md)
 2. [Critérios de Avaliação](2/Readme.md)
 3. [Critérios de Avaliação](3/Readme.md)
+4. [Expressão Regular](4/Readme.md)
+5. [Expressão Regular](5/Readme.md)
+6. [Hexadecimal](6/Readme.md)
+7. [Analise Léxica usando biblioteca re](7/Readme.md)
+8. [Análise Léxica usando diagrama de Estados](8/Readme.md)
+9. [Autômato](9/Readme.md)
+10. [Número par de a's](10/Readme.md)
+
 
 

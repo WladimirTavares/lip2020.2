@@ -1,0 +1,20 @@
+case=
+input=if(quantity){ 
+  total = total + price * quantity; 
+}
+output="Token(type='if', value='if', line=1, column=0)
+Token(type='AP', value='(', line=1, column=2)
+Token(type='ID', value='quantity', line=1, column=3)
+Token(type='FP', value=')', line=1, column=11)
+Token(type='AC', value='{', line=1, column=12)
+Token(type='ID', value='total', line=2, column=2)
+Token(type='ASSIGN', value='=', line=2, column=8)
+Token(type='ID', value='total', line=2, column=10)
+Token(type='OP', value='+', line=2, column=16)
+Token(type='ID', value='price', line=2, column=18)
+Token(type='OP', value='*', line=2, column=24)
+Token(type='ID', value='quantity', line=2, column=26)
+Token(type='END', value=';', line=2, column=34)
+Token(type='FC', value='}', line=3, column=0)
+"
+grade reduction=100%
