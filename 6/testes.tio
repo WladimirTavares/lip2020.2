@@ -1,0 +1,24 @@
+>>>>>>>>
+0x23 0xFF 0x2F 0xG5 0xFF 0XA0000024
+========
+True
+True
+True
+False
+True
+True
+
+<<<<<<<<
+
+
+>>>>>>>>
+0X23 0XFG 0x2A 0xG5 0xFF 0XX0000024
+========
+True
+False
+True
+False
+True
+False
+
+<<<<<<<<
