@@ -1,0 +1,17 @@
+case=
+input=
+output="S
+=>aSbS
+=>aaSbS
+=>aabS
+=>aab
+derivacao completa
+S
+=>aS
+=>aaSbS
+=>aabS
+=>aab
+derivacao completa
+True
+"
+grade reduction=100%

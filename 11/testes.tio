@@ -1,0 +1,25 @@
+
+>>>>>>>>
+========
+E
+=>E+T
+=>E+T+T
+=>T+T+T
+=>F+T+T
+=>a+T+T
+=>a+F+T
+=>a+a+T
+=>a+a+F
+=>a+a+a
+derivacao completa
+E
+=>E+T
+=>T+T
+=>F+T
+=>a+T
+=>a+T*F
+=>a+F*F
+=>a+a*F
+=>a+a*a
+derivacao completa
+<<<<<<<<

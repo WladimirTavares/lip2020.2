@@ -1,0 +1,34 @@
+>>>>>>>>
+========
+resultado: a+a
+checando arvore: ['E', ['E', ['T', ['F', 'a']]], '+', ['T', ['F', 'a']]]
+checando arvore: ['E', ['T', ['F', 'a']]]
+checando arvore: ['T', ['F', 'a']]
+checando arvore: ['F', 'a']
+checando arvore: ['T', ['F', 'a']]
+checando arvore: ['F', 'a']
+True
+resultado: a+a*a
+checando arvore: ['E', ['E', ['T', ['F', 'a']]], '+', ['T', ['T', ['F', 'a']], '*', ['F', 'a']]]
+checando arvore: ['E', ['T', ['F', 'a']]]
+checando arvore: ['T', ['F', 'a']]
+checando arvore: ['F', 'a']
+checando arvore: ['T', ['T', ['F', 'a']], '*', ['F', 'a']]
+checando arvore: ['T', ['F', 'a']]
+checando arvore: ['F', 'a']
+checando arvore: ['F', 'a']
+True
+resultado: a+a*a+a
+checando arvore: ['E', ['E', ['E', ['T', ['F', 'a']]], '+', ['T', ['T', ['F', 'a']], '*', ['F', 'a']]], '+', ['T', ['F', 'a']]]
+checando arvore: ['E', ['E', ['T', ['F', 'a']]], '+', ['T', ['T', ['F', 'a']], '*', ['F', 'a']]]
+checando arvore: ['E', ['T', ['F', 'a']]]
+checando arvore: ['T', ['F', 'a']]
+checando arvore: ['F', 'a']
+checando arvore: ['T', ['T', ['F', 'a']], '*', ['F', 'a']]
+checando arvore: ['T', ['F', 'a']]
+checando arvore: ['F', 'a']
+checando arvore: ['F', 'a']
+checando arvore: ['T', ['F', 'a']]
+checando arvore: ['F', 'a']
+True
+<<<<<<<<
